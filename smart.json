@@ -1,5 +1,5 @@
 {
-  "name":"twilio-api",
+  "name":"twilio",
   "description": "Twilio api wrapper brought to meteor.",
   "homepage": "http://twilio.github.io/twilio-node/",
   "author":"Peter de Croos (http://blog.peterdecroos.com)",
